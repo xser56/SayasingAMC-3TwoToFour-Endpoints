@@ -13,11 +13,11 @@ namespace SayasingAMC_3TwoToFour_Endpoints.Services
 
             if (num1 > num2)
             {
-                 results = "The first Number is higher! Your Second number is lower!" ;
+                 results = "The first Number is greater then your second number! Your Second number is lower!" ;
             }
             else if (num1 < num2)
             {
-                results = "The second number is higher! Your first number lower!";
+                results = "The second number is greater then your first number! Your first number is lower!";
             }
             else
             {
